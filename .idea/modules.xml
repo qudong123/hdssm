@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hdssm.iml" filepath="$PROJECT_DIR$/.idea/hdssm.iml" />
       <module fileurl="file://$PROJECT_DIR$/sso-login/sso-login.iml" filepath="$PROJECT_DIR$/sso-login/sso-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu-exam/stu-exam.iml" filepath="$PROJECT_DIR$/stu-exam/stu-exam.iml" />
     </modules>
   </component>
 </project>

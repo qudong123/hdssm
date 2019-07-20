@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sso-login" />
+        <module name="stu-exam" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sso-login" target="1.5" />
+      <module name="stu-exam" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
